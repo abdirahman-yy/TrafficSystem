@@ -1,5 +1,5 @@
-# TrafficSystem
-Traffic System Multithreading Project
+# Traffic System Simulation
+An Embedded Systems Project That Simulates A traffic System With Multithreading in C
 # How to Run
 
 Follow these steps to compile and execute the traffic simulation program:
